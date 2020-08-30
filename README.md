@@ -36,7 +36,7 @@ npm run serve
 
 Clique em [http://localhost:8080](http://localhost:8080) para visualizar no browser.
 
-Projeto [backend](https://github.com/Jhonatan-Pereira/node_knowledge_base_backend).
+Projeto [backend](https://github.com/Jhonatan-Pereira/node_knowledge_base).
 
 
 ## Author
