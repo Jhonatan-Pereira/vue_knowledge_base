@@ -1,6 +1,6 @@
 <template>
     <footer class="footer">
-        <span>Copyright <strong>Jhon</strong> © 2015-2018 </span>
+        <span>Copyright <strong>Jhonatan</strong> © 2019-2020 </span>
     </footer>
 </template>
 
